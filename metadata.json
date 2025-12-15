@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PDF Forge AI",
+  "description": "A powerful, local-first React application for batch PDF insertion and merging. Features an AI-powered batch planner to automate complex many-to-many merge configurations, running entirely in your browser for privacy and speed.",
+  "requestFramePermissions": []
+}
